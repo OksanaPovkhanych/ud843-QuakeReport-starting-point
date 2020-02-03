@@ -26,6 +26,11 @@
     <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
     <string name="settings_min_magnitude_default" translatable="false">6</string>
 
+    <!-- Strings For Number of Earthquakes Preference [CHAR LIMIT=30] -->
+    <string name="settings_number_of_earthquakes_label">Number of Earthquakes</string>
+    <string name="settings_num_earthquakes_key" translatable="false">num_earthquakes</string>
+    <string name="settings_num_earthquakes_default" translatable="false">10</string>
+
     <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
     <string name="settings_order_by_label">Order By</string>
     <string name="settings_order_by_key" translatable="false">order_by</string>
